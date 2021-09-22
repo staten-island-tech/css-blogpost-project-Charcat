@@ -1,0 +1,12 @@
+body {
+  background-color: aqua;
+  color: cadetblue;
+  font-size: 25px;
+}
+h1 {
+  color: blueviolet;
+  font-size: 50px;
+}
+.main-header {
+  color: yellow;
+}
