@@ -1,6 +1,5 @@
 body {
   background-color: #496d99;
-  color: cadetblue;
   font-size: 25px;
 }
 h1 {
@@ -8,7 +7,14 @@ h1 {
   font-size: 50px;
 }
 .main-header {
-  color: white;
+  color: #5f82ad;
   text-align: center;
   margin-top: 50px;
+}
+.title-background {
+  background-color: #faf1e6;
+  padding: 1px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
