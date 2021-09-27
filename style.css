@@ -1,7 +1,7 @@
 body {
   background-color: #496d99;
   font-size: 25px;
-  font-family: 'Comic Neue', cursive;
+  font-family: "Comic Neue", cursive;
 }
 h1 {
   color: #5f82ad;
@@ -28,7 +28,7 @@ h1 {
   margin-top: 100px;
   border-radius: 10px;
   border-style: solid;
-  border-color: #BFB2A3;
+  border-color: #bfb2a3;
   border-width: 20px;
 }
 .blog-title {
@@ -39,6 +39,6 @@ h1 {
 .picture {
   width: 500px;
 }
-#link {
-  font-family:Georgia, 'Times New Roman', Times, serif;
+#heading {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
